@@ -1,0 +1,21 @@
+.recipe-card{
+	width:31%;
+	margin:1%;
+	border: 1px solid green;
+	background: white;
+	border-radius: 0 0 2px 2px;
+}
+
+.recipe-card-content{
+	padding:16px;
+}
+
+.recipe-card-image{
+	overflow:hidden;
+	height:50%;
+	width:100%;
+}
+
+.recipe-title{
+	margin:0;
+}
